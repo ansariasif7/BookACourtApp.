@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530044888857",
+    "project_id": "finalbookacourtt",
+    "storage_bucket": "finalbookacourtt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530044888857:android:8a178939ae9412e7d5c788",
+        "android_client_info": {
+          "package_name": "com.example.finalbookacourtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530044888857-d1qsjkqc04j5mgfmdmr8h1sfmerubae2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4OH5UD0ODg6qq-eK6lrsyz329LtRfs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530044888857-d1qsjkqc04j5mgfmdmr8h1sfmerubae2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
